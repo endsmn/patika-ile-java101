@@ -3,7 +3,9 @@ import java.util.Scanner;
 Üç kenar uzunluğunu kullanıcıdan aldığınız
 üçgenin alanını hesaplayan program.
 */
+
 public class dikUcgendeHipotenusBulma {
+
     public static void main(String[] args) {
         int a,b;
         double c;
