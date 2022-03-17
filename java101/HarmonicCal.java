@@ -18,6 +18,6 @@ public class HarmonicCal {
         for (double i = 1; i <= n; i++) {
             x += (1 / i);
         }
-        System.out.println(x);
+        System.out.println(n+" "+"Sayısının Harmonik Karşılığı :"+" "+x);
     }
 }
